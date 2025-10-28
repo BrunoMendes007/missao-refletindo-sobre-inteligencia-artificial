@@ -50,6 +50,7 @@ const perguntas = [
   {
     enunciado:
       "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+      imagem: "img/Debate sobre a IA e Futuro do trabalho.png"
     alternativas: [
       {
       texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
